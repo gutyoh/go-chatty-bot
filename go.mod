@@ -1,4 +1,4 @@
-module go-chatty-bot
+module github.com/gutyoh/go-chatty-bot
 
 go 1.17
 
